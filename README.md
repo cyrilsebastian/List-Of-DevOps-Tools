@@ -5,9 +5,8 @@ Aiming to add all the tools used in Devops.
 > All the shared links are monitored and managed by [@CyrilSebastian](https://twitter.com/CyrilSebastian)
 
 **What is DevOps?**
-[DevOps](https://en.wikipedia.org/wiki/DevOps) is a culture which is practiced by collaborating communication
-and skillset used by Software Develpers and Information Technology(IT) professionals to achieve the goals of
-software delivery.
+
+[DevOps](https://en.wikipedia.org/wiki/DevOps) is a culture which is practiced by collaborating communication and skillset used by Software Develpers and Information Technology(IT) professionals to achieve the goals of software delivery.
 
 
 ##  Cloud / IaaS / PaaS
