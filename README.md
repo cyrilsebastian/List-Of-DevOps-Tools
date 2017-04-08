@@ -32,7 +32,7 @@ IBM BlueMix		[Site](https://www.ibm.com/cloud-computing/bluemix/)	[Blog](https:/
 
 DigitalOcean		[Site](https://www.digitalocean.com/)	[Blog](https://www.digitalocean.com/company/blog/)	[Wikipedia](https://en.wikipedia.org/wiki/DigitalOcean)	[Twitter](https://twitter.com/digitalocean)	[Github](https://github.com/digitalocean)
 
-Linode		[Site](https://www.linode.com/)	[Blog](https://blog.linode.com/)	[Wikipedia](https://en.wikipedia.org/wiki/Linode)	[Twitter](https://twitter.com/linode)	[Github(]https://github.com/linode/)
+Linode		[Site](https://www.linode.com/)	[Blog](https://blog.linode.com/)	[Wikipedia](https://en.wikipedia.org/wiki/Linode)	[Twitter](https://twitter.com/linode)	[Github](https://github.com/linode/)
 
 OpenStack		[Site](https://www.openstack.org/)	[Blog](https://www.openstack.org/blog/)	[Wikipedia](https://en.wikipedia.org/wiki/OpenStack)	[Twitter](https://twitter.com/OpenStack)	[Github](https://github.com/openstack)
 
