@@ -1,4 +1,5 @@
         *List Of Devops Tools*
+        
 Aiming to add all the tools used in Devops.
 
 > All the shared links are monitored and managed by [@CyrilSebastian](https://twitter.com/CyrilSebastian)
@@ -14,14 +15,14 @@ software delivery.
 ## Cloud / IaaS / PaaS
 Includes all the cloud services.
 
-* #### Amazon Web Services(AWS)	[Site](https://aws.amazon.com/)	[Blog](https://aws.amazon.com/blogs/aws/)	[Wikipedia](https://en.wikipedia.org/wiki/Amazon_Web_Services)	[Twitter](https://twitter.com/awscloud)	[Github](https://github.com/aws)
+#### Amazon Web Services(AWS)	[Site](https://aws.amazon.com/)	[Blog](https://aws.amazon.com/blogs/aws/)	[Wikipedia](https://en.wikipedia.org/wiki/Amazon_Web_Services)	[Twitter](https://twitter.com/awscloud)	[Github](https://github.com/aws)
 AWS is a part of Amazon with datacenters available in 16 regions around the world. AWS provides more than 70 different cloud services.
 
-* #### Google Cloud Platform 		[Site](https://cloud.google.com/)	[Blog](https://cloudplatform.googleblog.com/)	[Wikipedia](https://en.wikipedia.org/wiki/Google_Cloud_Platform)	[Twitter](https://twitter.com/googlecloud)	[Github](https://github.com/GoogleCloudPlatform)
+#### Google Cloud Platform 		[Site](https://cloud.google.com/)	[Blog](https://cloudplatform.googleblog.com/)	[Wikipedia](https://en.wikipedia.org/wiki/Google_Cloud_Platform)	[Twitter](https://twitter.com/googlecloud)	[Github](https://github.com/GoogleCloudPlatform)
 Google Cloud Platform is a cloud computing service by Google that offers hosting on the same supporting infrastructure that Google uses internally for end-user products like Google Search and YouTube.
 
-* #### Microsoft Azure		[Site](https://azure.microsoft.com/)	[Blog](https://azure.microsoft.com/en-us/blog/)	[Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Azure)	[Twitter](https://twitter.com/Azure)	[Github](https://github.com/Azure)
-Microsoft Azure /ˈæʒər/ is a cloud computing service created by Microsoft for building, deploying, and managing applications and services through a global network of Microsoft-managed data centers
+#### Microsoft Azure		[Site](https://azure.microsoft.com/)	[Blog](https://azure.microsoft.com/en-us/blog/)	[Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Azure)	[Twitter](https://twitter.com/Azure)	[Github](https://github.com/Azure)
+Microsoft Azure is a cloud computing service created by Microsoft for building, deploying, and managing applications and services through a global network of Microsoft-managed data centers
 
 #### *Rackspace*		[Site](https://www.rackspace.com/)	[Blog](https://blog.rackspace.com/)	[Wikipedia](https://en.wikipedia.org/wiki/Rackspace)	[Twitter](https://twitter.com/rackspace)	[Github](https://github.com/rackspace)
 The Rackspace Cloud is a set of cloud computing products and services billed on a utility computing basis from
