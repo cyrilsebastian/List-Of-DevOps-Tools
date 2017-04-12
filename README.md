@@ -78,4 +78,4 @@ Oracle cloud includes SaaS, PaaS and IaaS when it bought NetSuite.
 
 
 
-                                        ----End of Document----
+                                                             ----End of Document----
