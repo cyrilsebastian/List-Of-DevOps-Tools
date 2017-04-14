@@ -110,5 +110,26 @@ CircleCI offers a modern software development platform that lets teams ramp quic
 #### *Codeship*		[Site](https://codeship.com/)	[Blog](https://blog.codeship.com/)		[Twitter](https://twitter.com/codeship)	[Github](https://github.com/codeship)
 Codeship helps to test, build, and deploy directly from your GitHub, GitLab and Bitbucket project.
 
+#### *Semaphore CI* [Site](https://semaphoreci.com)	[Blog](https://semaphoreci.com/blog)		[Twitter](https://twitter.com/semaphoreci)	[Github](https://github.com/integrations/semaphore)
+Semaphore automatically runs your test suite every time you push new code to GitHub quickly and reliably. It then updates the build status on pull requests so you know if it is safe to merge.
+
+#### *Snap CI* [Site](https://snap-ci.com/)	[Blog](https://blog.snap-ci.com/)		[Twitter](https://twitter.com/snap_ci)	[Github](https://github.com/snap-ci)
+Build the great products for your users, let Snap handle your build & delivery infrastructure. Continuous Delivery without the hardware hassle.	
+
+#### *IBM UrbanCode Build* [Site](https://developer.ibm.com/urbancode/products/urbancode-build/)	[Blog](https://developer.ibm.com/urbancode/category/blogs/)	[Wikipedia](https://en.wikipedia.org/wiki/AnthillPro)	[Twitter](https://twitter.com/urbancode)	[Github](https://github.com/IBM-UrbanCode)
+IBM UrbanCode Build is a continuous integration and build management server optimized for the enterprise. It is designed to make it easy to scale the configuration and management of your build infrastructure.	
+
+#### *DeployBot* [Site](https://deploybot.com/)	[Blog](https://deploybot.com/blog)	[Wikipedia](https://en.wikipedia.org/wiki/Wildbit#DeployBot)	[Twitter](https://twitter.com/deploybothq)	
+DeployBot is a continuous deployment app launched by Wildbit in 2013. The service was designed to extend a feature from Beanstalk, deployments, to other hosted version control platforms.	
+
+#### *Shippable* [Site](https://www.shippable.com/index.html)	[Blog](http://blog.shippable.com/)	[Wikipedia](https://en.wikipedia.org/wiki/Shippable)	[Twitter](https://twitter.com/BeShippable)	[Github](https://github.com/Shippable)
+Shippable is a hosted cloud platform that provides hosted continuous integration, deployment, and testing to GitHub and Bitbucket repositories. Shippable's continuous integration service is built using Docker.	
+
+#### *Buildkite* [Site](https://buildkite.com/)	[Blog](https://buildkite.com/blog)		[Twitter](https://twitter.com/buildkite)	[Github](https://github.com/buildkite)
+Automate your team’s software development processes, from testing through to delivery, no matter the language, environment or toolchain.	
+#### *distelli* [Site](https://www.distelli.com/)	[Blog](https://www.distelli.com/blog/)	[Wikipedia](https://en.wikipedia.org/wiki/Distelli)	https://twitter.com/distelli	https://github.com/Distelli
+Distelli develops a software as a service solution for software developers to build, test, and deploy code from GitHub and BitBucket (or no repository at all) of any programming language to any server. Distelli is an agent-based continuous integration and continuous deployment solution.	
+
+
 
                                                      ----End of Document----
