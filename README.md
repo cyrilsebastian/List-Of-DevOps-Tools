@@ -75,7 +75,40 @@ is based on open-source technology, including OpenStack and Cloud Foundry.
 #### *Oracle Cloud*		[Site](https://cloud.oracle.com/home)	[Blog](https://blogs.oracle.com/infrastructure/)	[Wikipedia](https://en.wikipedia.org/wiki/Oracle_Corporation#Oracle_Cloud)	[Twitter](https://twitter.com/oraclecloud)
 Oracle cloud includes SaaS, PaaS and IaaS when it bought NetSuite.
 
+## Continuous Integration
+[Continuous Integration (CI)](https://en.wikipedia.org/wiki/Continuous_integration) is the practice of merging all developer working copies to a shared mainline several times a day. Grady Booch first named and proposed CI in his 1991 method.
 
+#### *Jenkins* [Site](https://jenkins.io/index.html)	[Blog](https://jenkins.io/node)	[Wikipedia](https://en.wikipedia.org/wiki/Jenkins_(software))	[Twitter](https://twitter.com/jenkinsci)	[Github](https://github.com/jenkinsci)
+Jenkins helps to automate the non-human part of the whole software development process with now common things like continuous integration and by empowering teams to implement the technical aspects of continuous delivery.
+
+#### *Travis CI*		[Site](https://travis-ci.org/)	[Blog](https://blog.travis-ci.com/)	[Wikipedia](https://en.wikipedia.org/wiki/Travis_CI)	[Twitter](https://twitter.com/travisci)	[Github](https://github.com/travis-ci)
+Travis CI is a hosted, distributed continuous integration service used to build and test software projects hosted at GitHub.Open source projects may be tested at no charge via travis-ci.org.
+
+#### *Bamboo*		[Site](https://www.atlassian.com/software/bamboo)	[Blog](https://www.atlassian.com/blog/bamboo)	[Wikipedia](https://en.wikipedia.org/wiki/Bamboo_(software))	[Twitter](https://twitter.com/Atlassian)
+Bamboo is a continuous integration server developed by Atlassian.
+#### *TeamCity* 		[Site](https://www.jetbrains.com/teamcity/)	[Blog](https://blog.jetbrains.com/teamcity/)	[Wikipedia](https://en.wikipedia.org/wiki/TeamCity)	[Twitter](https://twitter.com/teamcity)
+TeamCity is a Java-based build management and continuous integration server from JetBrains. Although initially available both as an on-premises and cloud computing service. A Freemium license for up to 20 build configurations and 3 free Build Agent licenses is available. Open Source projects can request a free license.
+
+#### *Continuum*		[Site](http://continuum.apache.org/)	[Blog](http://continuum.apache.org/faqs.html)	[Wikipedia](https://en.wikipedia.org/wiki/Apache_Continuum)		[Github](https://github.com/apache/continuum)
+Apache Continuum, a partner to Apache Maven, is a continuous integration server, which runs builds on a configurable schedule.
+
+#### *GitLab CI*	 	[Site](https://about.gitlab.com/gitlab-ci/)	[Blog](https://about.gitlab.com/blog/)		[Twitter](https://twitter.com/gitlab)	[Github](https://github.com/gitlabhq/gitlab-ci)
+GitLab CI is a part of GitLab, a web application with an API that stores its state in a database. It manages projects/builds and provides a nice user interface, besides all the features of GitLab.
+
+#### *BuildMaster*		[Site](http://inedo.com/buildmaster)	[Blog](http://inedo.com/blog)	[Wikipedia](https://en.wikipedia.org/wiki/BuildMaster)	[Twitter](http://twitter.com/inedo)	[Github](https://github.com/Inedo/inedox-git)
+BuildMaster is an application release automation tool, designed by the software development team, Inedo. It combines build management and ARA capabilities to manage and automate processes primarily related to continuous integration, database change scripts, and production deployments
+
+#### *Wercker*		[Site](http://www.wercker.com/)	[Blog](http://blog.wercker.com/)	[Wikipedia](https://en.wikipedia.org/wiki/Wercker)	[Twitter](https://twitter.com/wercker)	[Github](https://github.com/wercker)
+Wercker is a Dutch software company with its namesake Docker-based continuous delivery platform that helps software developers build and deploy their applications and microservices.
+
+#### *Buddy*		[Site](https://buddy.works/)	[Blog](https://buddy.works/blog)	[Wikipedia](https://en.wikipedia.org/wiki/Buddy_(software))	[Twitter](https://twitter.com/BuddyGit)	[Github](https://github.com/buddy-works)
+Buddy (also known as Buddy.Works) is a web-based and self-hosted continuous integration and delivery software for Git developers that can be used to build, test and deploy web sites and applications with code from GitHub, Bitbucket and GitLab.
+
+#### *CircleCI*		[Site](https://circleci.com/)	[Blog](https://circleci.com/blog/)		[Twitter](https://twitter.com/circleci)	[Github](https://github.com/circleci)
+CircleCI offers a modern software development platform that lets teams ramp quickly, scale easily, and build confidently.
+
+#### *Codeship*		[Site](https://codeship.com/)	[Blog](https://blog.codeship.com/)		[Twitter](https://twitter.com/codeship)	[Github](https://github.com/codeship)
+Codeship helps to test, build, and deploy directly from your GitHub, GitLab and Bitbucket project.
 
 
                                                      ----End of Document----
