@@ -127,7 +127,7 @@ Shippable is a hosted cloud platform that provides hosted continuous integration
 
 #### *Buildkite* [Site](https://buildkite.com/)	[Blog](https://buildkite.com/blog)		[Twitter](https://twitter.com/buildkite)	[Github](https://github.com/buildkite)
 Automate your team’s software development processes, from testing through to delivery, no matter the language, environment or toolchain.	
-#### *distelli* [Site](https://www.distelli.com/)	[Blog](https://www.distelli.com/blog/)	[Wikipedia](https://en.wikipedia.org/wiki/Distelli)	https://twitter.com/distelli	https://github.com/Distelli
+#### *distelli* [Site](https://www.distelli.com/)	[Blog](https://www.distelli.com/blog/)	[Wikipedia](https://en.wikipedia.org/wiki/Distelli)	[Twitter](https://twitter.com/distelli)	[Github](https://github.com/Distelli)
 Distelli develops a software as a service solution for software developers to build, test, and deploy code from GitHub and BitBucket (or no repository at all) of any programming language to any server. Distelli is an agent-based continuous integration and continuous deployment solution.	
 
 
