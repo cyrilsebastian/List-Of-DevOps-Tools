@@ -130,6 +130,41 @@ Automate your team’s software development processes, from testing through to d
 #### *distelli* [Site](https://www.distelli.com/)	[Blog](https://www.distelli.com/blog/)	[Wikipedia](https://en.wikipedia.org/wiki/Distelli)	[Twitter](https://twitter.com/distelli)	[Github](https://github.com/Distelli)
 Distelli develops a software as a service solution for software developers to build, test, and deploy code from GitHub and BitBucket (or no repository at all) of any programming language to any server. Distelli is an agent-based continuous integration and continuous deployment solution.	
 
+#### *Apache Gump*		[Site](https://gump.apache.org/)		[Wikipedia](https://en.wikipedia.org/wiki/Apache_Gump)		
+The Apache Gump continuous integration tool was the first one developed at the Apache Software Foundation. It is written in Python and fully supports Apache Ant, Apache Maven (1.x to 3.x) and other build tools.
+
+#### *ElectricFlow* 	[Site](http://electric-cloud.com/products/electricflow/)	[Blog](http://electric-cloud.com/blog/	[Wikipedia](https://en.wikipedia.org/wiki/Electric_Cloud)	[Twitter](http://www.twitter.com/ElectricCloud)	[Github](https://github.com/electric-cloud)
+Electric Cloud, Inc. is a privately held, DevOps optimization software company based in San Jose. The company provides DevOps Release Automation (DORA) solutions that simplify and accelerate the delivery of software updates to end-users.
+
+#### *Octopus Deploy*		[Site](https://octopus.com/	[Blog](https://octopus.com/blog)	[Wikipedia](https://en.wikipedia.org/wiki/Octopus_Deploy)	[Twitter](https://twitter.com/OctopusDeploy)	[Github](https://github.com/OctopusDeploy)
+Octopus Deploy is an automated software deployment and release management server. It is designed to simplify deployment of ASP.NET applications, Windows Services and databases.
+
+#### *GoCD*		[Site](https://www.gocd.io/	https://www.gocd.io/blog/)	[Blog](https://en.wikipedia.org/wiki/Go_continuous_delivery)	[Twitter](https://twitter.com/goforcd)	[Github](http://github.com/gocd)
+GoCD is an open source tool which is used in software development to achieve continuous delivery (CD) of software. It supports automating the entire build-test-release process from code check-in to deployment.
+
+#### *Drone*	[Site](http://try.drone.io/	[Blog](http://blog.drone.io/)		[Twitter](https://twitter.com/droneio)	[Github](https://github.com/drone)
+Drone is a Continuous Delivery platform built on Docker, written in Go
+
+#### *Spinnaker*		[Site](http://www.spinnaker.io/)	[Blog](http://www.spinnaker.io/blog)	[Wikipedia](https://en.wikipedia.org/wiki/Spinnaker)	[Twitter](https://twitter.com/spinnakerio)	[Github](https://github.com/spinnaker/)
+Spinnaker is an open source from NetFlix, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence. 
+
+#### *Bitrise*		[Site](https://www.bitrise.io/)	[Blog](http://blog.bitrise.io/)		[Twitter](https://twitter.com/bitrise)	[Github](https://github.com/bitrise-io)
+Mobile app build and delivery automation PaaS
+
+#### *Codefresh*		[Site](https://codefresh.io/)	[Blog](https://codefresh.io/blog/)		[Twitter](https://twitter.com/codefresh)	[Github](https://github.com/codefresh-io)
+Continuous delivery and automation platform for Docker. Instantly build, test, deploy and gather feedback on apps
+
+#### *AWS CodeDeploy*		[Site](https://aws.amazon.com/codedeploy/)	[Blog](https://aws.amazon.com/blogs/devops/tag/codedeploy/)		[Twitter](https://twitter.com/awscloud)
+AWS CodeDeploy is a service that automates code deployments to any instance, including Amazon EC2 instances and instances running on-premises. AWS CodeDeploy makes it easier for you to rapidly release new features, helps you avoid downtime during application deployment, and handles the complexity of updating your applications.
+	
+#### *Juju*		[Site](https://jujucharms.com/)	[Blog](https://jujucharms.com/community/blog)	[Wikipedia](https://en.wikipedia.org/wiki/Juju_(software))	[Twitter](https://twitter.com/ubuntucloud)	[Github](https://github.com/juju)
+Juju is an open source application modelling tool developed by Canonical. Juju focuses on reducing the operation overhead of today's software by facilitating quickly deploying, configuring, scaling, integrating, and performing operational tasks on a wide choice of public and private cloud services along with bare metal servers and local container based deployments.
+
+#### *Rancher*	[Site](http://rancher.com/)	[Blog](http://rancher.com/blog/)	[Wikipedia](https://en.wikipedia.org/wiki/RancherOS)	[Twitter](https://twitter.com/Rancher_Labs)	[Github](https://github.com/rancherio/rancher)
+Rancher Labs builds open source software for building a private container service. Rancher makes running Docker on any infrastructure simple and scalable
+
+#### *Nomad Enterprise*	 	[Site](https://www.hashicorp.com/products/nomad/)	[Blog](https://www.hashicorp.com/blog/)	[Twitter](https://twitter.com/hashicorp)	[Github](https://github.com/hashicorp)
+Nomad is a distributed, highly available, datacenter-aware cluster manager and scheduler for the purpose of deploying applications on any infrastructure, at any scale.                                
 
 
                                                      ----End of Document----
