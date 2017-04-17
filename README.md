@@ -75,8 +75,8 @@ is based on open-source technology, including OpenStack and Cloud Foundry.
 #### *Oracle Cloud*		[Site](https://cloud.oracle.com/home)	[Blog](https://blogs.oracle.com/infrastructure/)	[Wikipedia](https://en.wikipedia.org/wiki/Oracle_Corporation#Oracle_Cloud)	[Twitter](https://twitter.com/oraclecloud)
 Oracle cloud includes SaaS, PaaS and IaaS when it bought NetSuite.
 
-## Continuous Integration
-[Continuous Integration (CI)](https://en.wikipedia.org/wiki/Continuous_integration) is the practice of merging all developer working copies to a shared mainline several times a day. Grady Booch first named and proposed CI in his 1991 method.
+## Continuous Integration/Delivery
+[Continuous Integration (CI)](https://en.wikipedia.org/wiki/Continuous_integration) is the practice of merging all developer working copies to a shared mainline several times a day. Grady Booch first named and proposed CI in his 1991 method. [Continuous delivery (CD)](https://en.wikipedia.org/wiki/Continuous_delivery) is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time. It aims at building, testing, and releasing software faster and more frequently. 
 
 #### *Jenkins* [Site](https://jenkins.io/index.html)	[Blog](https://jenkins.io/node)	[Wikipedia](https://en.wikipedia.org/wiki/Jenkins_(software))	[Twitter](https://twitter.com/jenkinsci)	[Github](https://github.com/jenkinsci)
 Jenkins helps to automate the non-human part of the whole software development process with now common things like continuous integration and by empowering teams to implement the technical aspects of continuous delivery.
