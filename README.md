@@ -10,7 +10,7 @@ Aiming to add all the tools used in Devops.
 
 
 ##  Cloud / IaaS / PaaS
-Includes all the cloud services.
+Includes all the cloud major services.
 
 #### *Amazon Web Services(AWS)*	[Site](https://aws.amazon.com/)	[Blog](https://aws.amazon.com/blogs/aws/)	[Wikipedia](https://en.wikipedia.org/wiki/Amazon_Web_Services)	[Twitter](https://twitter.com/awscloud)	[Github](https://github.com/aws)
 AWS is a part of Amazon with datacenters available in 16 regions around the world. AWS provides more than 70 different cloud services.
@@ -165,6 +165,39 @@ Rancher Labs builds open source software for building a private container servic
 
 #### *Nomad Enterprise*	 	[Site](https://www.hashicorp.com/products/nomad/)	[Blog](https://www.hashicorp.com/blog/)	[Twitter](https://twitter.com/hashicorp)	[Github](https://github.com/hashicorp)
 Nomad is a distributed, highly available, datacenter-aware cluster manager and scheduler for the purpose of deploying applications on any infrastructure, at any scale.                                
+
+
+## Source Code Management
+This includes all the revision control tools.
+
+#### *Git* [Site](https://git-scm.com/) [Blog](https://git-scm.com/blog) [Wikipedia](https://en.wikipedia.org/wiki/Git) [Twitter](https://twitter.com/github)
+Git is a version control system (VCS) for tracking changes in computer files and coordinating work on those files among multiple people. It is primarily used for software development, but it can be used to keep track of changes in any files.
+
+#### *Github* [Site](https://github.com) [Blog](https://github.com/blog) [Wikipedia](https://en.wikipedia.org/wiki/GitHub) [Twitter](https://twitter.com/github) [Github](https://github.com/github)
+GitHub is a web-based Git or version control repository and Internet hosting service. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project.
+
+#### *GitLab* [Site](https://about.gitlab.com/) [Blog](https://about.gitlab.com/blog) [Wikipedia](https://en.wikipedia.org/wiki/GitLab) [Twitter](https://twitter.com/gitlab) [Github](https://github.com/gitlabhq)
+GitLab is a web-based Git repository manager with wiki and issue tracking features, using an open source license, developed by GitLab Inc. The software was written by Dmitriy Zaporozhets and Valery Sizov from Ukraine.
+
+#### *BitBucket* [Site](https://bitbucket.org/) [Blog](https://blog.bitbucket.org/) [Wikipedia](https://en.wikipedia.org/wiki/Bitbucket) [Twitter](https://twitter.com/bitbucket)
+Bitbucket is a web-based hosting service for source code and development projects that use either Mercurial (since launch) or Git (since October 2011) revision control systems that is owned by Atlassian.
+
+#### *Apache Subversion* [Site](https://subversion.apache.org/) [Blog](http://subversion.apache.org/news.html) [Wikipedia](https://en.wikipedia.org/wiki/Apache_Subversion) [Github](https://github.com/apache/subversion)
+Apache Subversion (often abbreviated SVN, after its command name svn) is a software versioning and revision control system distributed as open source under the Apache License.
+
+#### *Rational ClearCase* [Site](http://www-03.ibm.com/software/products/en/clearcase) [Blog](https://www.ibm.com/developerworks/community/blogs/nfrsblog/?lang=en) [Wikipedia](https://en.wikipedia.org/wiki/Rational_ClearCase) [Twitter](https://twitter.com/rationalsupport)
+ClearCase includes revision control and forms the basis for configuration management at large and medium-sized businesses, accommodating projects with hundreds or thousands of developers. It is developed by IBM.
+
+#### *Visual Studio Team Services* [Site](https://www.visualstudio.com/vso/) [Blog](https://blogs.msdn.microsoft.com/visualstudioalm/) [Wikipedia](https://en.wikipedia.org/wiki/Team_Foundation_Server) [Twitter](https://twitter.com/vsteam) [Github](https://github.com/Microsoft/vsts-agent)
+Team Foundation Server is a Microsoft product that provides source code management, reporting, requirements management, project management, automated builds, lab management, testing and release management capabilities.
+
+#### *Phabricator* [Site](https://www.phacility.com/phabricator/) [Blog](https://blog.phacility.com/) [Wikipedia](https://en.wikipedia.org/wiki/Phabricator) [Twitter](https://twitter.com/phabricator/) [Github](https://github.com/phacility/phabricator/)
+Phabricator is a suite of web-based software development collaboration tools, including the Differential code review tool, the Diffusion repository browser, the Herald change monitoring tool, the Maniphest bug tracker and the Phriction wiki. Phabricator integrates with Git, Mercurial, and Subversion.
+
+#### *Deveo* [Site](https://deveo.com/) [Blog](http://blog.deveo.com/) [Twitter](https://twitter.com/deveoteam) [Github](https://github.com/Deveo)
+Deveo is a software company that focuses on code management and code hosting solutions for enterprises.
+
+
 
 
                                                      ----End of Document----
